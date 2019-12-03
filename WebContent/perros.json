@@ -1,0 +1,70 @@
+[
+    {
+        "nombre":"Buba",
+        "edad": 2,
+        "peso": 10.5,
+        "estaVivo": false,
+        "propietario":{
+            "nombre":"Leo",
+            "edad":24,
+            "direccion":"Col. Uno, Calle uno #1"
+        },
+        "cuidados":[
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ],
+        "sexo":"Masculino",
+        "esterilizado": true
+    },
+    {
+        "nombre":"Conchita",
+        "edad": 2,
+        "peso": 10.5,
+        "estaVivo": false,
+        "propietario":{
+            "nombre":"Leo",
+            "edad":24,
+            "direccion":"Col. Uno, Calle uno #1"
+        },
+        "cuidados":[
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ],
+        "sexo":"Femenino",
+        "esterilizado": true
+    },
+    {
+        "nombre":"Laika",
+        "edad": 7,
+        "peso": 10.5,
+        "estaVivo": true,
+        "propietario":{
+            "nombre":"Leo",
+            "edad":24,
+            "direccion":"Col. Uno, Calle uno #1"
+        },
+        "cuidados":[
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ],
+        "sexo":"Femenino",
+        "esterilizado": false
+    },
+    {
+        "nombre":"Spot",
+        "edad": 5,
+        "peso": 10.5,
+        "estaVivo": false,
+        "propietario":{
+            "nombre":"Ale",
+            "edad":24,
+            "direccion":"Col. Uno, Calle uno #1"
+        },
+        "cuidados":[
+            "Bañado en seco",
+            "Sacarlo a pasear una vez al día"
+        ],
+        "sexo":"Masculino",
+        "esterilizado": true
+    }
+]
