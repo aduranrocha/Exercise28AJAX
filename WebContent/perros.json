@@ -1,13 +1,13 @@
 [
     {
         "nombre":"Buba",
-        "edad": 2,
+        "edad": 3,
         "peso": 10.5,
         "estaVivo": false,
         "propietario":{
-            "nombre":"Leo",
-            "edad":24,
-            "direccion":"Col. Uno, Calle uno #1"
+            "nombre":"Daniel",
+            "edad":22,
+            "direccion":"Col. Uno, Calle Maria #22"
         },
         "cuidados":[
             "Bañado en seco",
@@ -19,12 +19,12 @@
     {
         "nombre":"Conchita",
         "edad": 2,
-        "peso": 10.5,
-        "estaVivo": false,
+        "peso": 7,
+        "estaVivo": true,
         "propietario":{
-            "nombre":"Leo",
-            "edad":24,
-            "direccion":"Col. Uno, Calle uno #1"
+            "nombre":"Helio",
+            "edad":25,
+            "direccion":"Col. Dos, Calle Belen #321"
         },
         "cuidados":[
             "Bañado en seco",
@@ -39,12 +39,12 @@
         "peso": 10.5,
         "estaVivo": true,
         "propietario":{
-            "nombre":"Leo",
+            "nombre":"Cristina",
             "edad":24,
             "direccion":"Col. Uno, Calle uno #1"
         },
         "cuidados":[
-            "Bañado en seco",
+            "Dar agua fria",
             "Sacarlo a pasear una vez al día"
         ],
         "sexo":"Femenino",
@@ -58,7 +58,7 @@
         "propietario":{
             "nombre":"Ale",
             "edad":24,
-            "direccion":"Col. Uno, Calle uno #1"
+            "direccion":"Col. Uno, Calle Mariano #713"
         },
         "cuidados":[
             "Bañado en seco",
